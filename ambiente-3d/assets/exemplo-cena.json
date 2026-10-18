@@ -1,0 +1,42 @@
+{
+  "nome": "escritorio-exemplo",
+  "ambiente": {
+    "largura": 3.2,
+    "profundidade": 3.6,
+    "pe_direito": 2.7,
+    "piso": {"tipo": "tabuas", "cor": "#9a6a42", "cor2": "#6e4628"},
+    "parede": "#ece8e1",
+    "paredes": {"fundo": "#d9d2c5"},
+    "rodape": {"altura": 0.07, "cor": "#f4f2ee"}
+  },
+  "aberturas": [
+    {"id": "janela", "parede": "fundo", "tipo": "janela", "centro": 1.6, "largura": 1.6, "altura": 1.4, "peitoril": 0.95,
+     "divisoes": 2, "caixilho": "#2b2b2b", "ceu": "#bcd3e6"},
+    {"id": "porta", "parede": "frente", "tipo": "porta", "centro": 0.6, "largura": 0.8, "altura": 2.1,
+     "dobradica": "esquerda", "abertura": 70, "cor": "#f2f0ec"}
+  ],
+  "objetos": [
+    {"id": "mesa", "tipo": "mesa", "pos": [1.6, 3.23, 0], "tam": [1.4, 0.7, 0.75], "estilo": "standing",
+     "tampo": {"tipo": "madeira", "cor": "#3a2a1f", "cor2": "#22180f"}, "pes": "#1c1c1c"},
+    {"id": "monitor", "tipo": "monitor", "pos": [1.6, 3.38, 0.75], "tela": [0.62, 0.35], "altura_base": 0.12},
+    {"id": "teclado", "tipo": "teclado", "pos": [1.52, 3.08, 0.75]},
+    {"id": "mouse", "tipo": "mouse", "pos": [1.92, 3.08, 0.75]},
+    {"id": "cadeira", "tipo": "cadeira", "pos": [1.6, 2.6, 0], "olha_para": [1.6, 3.6], "cor": "#3b3b3b"},
+    {"id": "estante", "tipo": "estante", "pos": [0.17, 1.6, 0], "rot": 90, "tam": [0.9, 0.32, 1.9],
+     "acabamento": {"tipo": "madeira", "cor": "#c9a57a"}, "prateleiras": 5},
+    {"id": "planta", "tipo": "planta", "pos": [2.9, 3.3, 0], "altura": 1.3},
+    {"id": "tapete", "tipo": "tapete", "pos": [1.6, 2.4, 0], "tam": [2.0, 1.4], "acabamento": {"tipo": "carpete", "cor": "#a59a88"}},
+    {"id": "quadro", "tipo": "quadro", "pos": [3.2, 1.8, 1.2], "rot": -90, "tam": [0.6, 0.8], "cor": "#c7b9a2"},
+    {"id": "luminaria", "tipo": "luminaria", "estilo": "piso", "pos": [2.8, 2.55, 0]},
+    {"id": "cortina", "tipo": "cortina", "pos": [0.55, 3.55, 0.0], "tam": [0.6, 2.5]}
+  ],
+  "luzes": [
+    {"tipo": "teto", "pos": [1.6, 1.8], "forca": 160}
+  ],
+  "sol": "auto",
+  "vistas": {
+    "porta": {"cam": [0.9, 0.35, 1.6], "alvo": [1.8, 3.4, 1.0], "lente": 18},
+    "mesa": {"cam": [1.0, 2.1, 1.35], "alvo": [1.7, 3.4, 0.85], "lente": 26},
+    "canto": {"cam": [3.0, 0.4, 1.7], "alvo": [0.8, 2.8, 0.9], "lente": 16}
+  }
+}
