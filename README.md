@@ -1,4 +1,4 @@
-> **Cópia publicada pela Expert Integrado — versão 2026-10-18-6a3c33f.** Este repositório é somente leitura para alunos da Mentoria Automações Inteligentes: é a versão publicada de `ambiente-3d`, gerada automaticamente a partir da fonte interna (sem histórico). Dúvidas e sugestões vão pelo Portal do Aluno, não por issues aqui.
+> **Publicado pela Expert Integrado — versão 2026-10-18-6a3c33f.** Cópia pública de `ambiente-3d`, gerada automaticamente a partir da fonte interna (sem histórico) pelo robô publicador. Issues e pull requests aqui não são acompanhados; contato em expertintegrado.com.br.
 
 # ambiente-3d — seu ambiente em 3D a partir de fotos
 
