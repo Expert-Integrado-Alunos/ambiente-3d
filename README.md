@@ -1,4 +1,4 @@
-> **Publicado pela Expert Integrado — versão 2026-10-18-6a3c33f.** Cópia pública de `ambiente-3d`, gerada automaticamente a partir da fonte interna (sem histórico) pelo robô publicador. Issues e pull requests aqui não são acompanhados; contato em expertintegrado.com.br.
+> **Publicado pela Expert Integrado — versão 2026-10-19-3fab513.** Cópia pública de `ambiente-3d`, gerada automaticamente a partir da fonte interna (sem histórico) pelo robô publicador. Issues e pull requests aqui não são acompanhados; contato em expertintegrado.com.br.
 
 # ambiente-3d — seu ambiente em 3D a partir de fotos
 
